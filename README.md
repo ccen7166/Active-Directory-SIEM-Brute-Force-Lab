@@ -27,7 +27,18 @@ This project strengthened my understanding of:
 - Hydra – Brute force tool
 - Atomic Red Team – MITRE ATT&CK simulation
 
+## Project Structure
+
+| Folder | Description |
+|--------|-------------|
+| `01_Homelab_Setup` | Virtual machine configurations, network diagram, and static IP setup |
+| `02_AD_Configuration` | Active Directory Domain Services installation and domain configuration |
+| `03_SIEM_Setup` | Sysmon deployment and Splunk Universal Forwarder installation |
+| `04_Attack_Simulation` | Simulated attacks: Hydra brute force and Atomic Red Team |
+| `05_Detection` | Splunk dashboards, search queries, and analysis of attack traces |
+
 ## Steps
+
 Detailed steps are broken down in the folders above. 
 
 Below is the diagram diagram for this homelab project.  
