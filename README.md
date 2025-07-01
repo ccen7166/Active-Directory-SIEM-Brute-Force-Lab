@@ -1,2 +1,34 @@
 # Active-Directory-SIEM-Brute-Force-Lab
 Homelab project: Building Active Directory, simulating brute force attacks, detecting them with Splunk SIEM, and testing Atomic Red Team.
+
+## Objective
+
+This project demonstrates building a realistic multi-VM homelab to simulate enterprise security scenarios. The lab includes Active Directory deployment, brute force attacks using Hydra,  detection with Splunk SIEM.
+
+### Skills Learned
+
+
+This project strengthened my understanding of:
+
+- Windows enterprise infrastructure
+- Credential attack techniques
+- Log collection pipelines
+- Detection engineering in Splunk
+- Incident response fundamentals
+
+### Tools Used
+
+- Windows Server 2019 – Domain Controller
+- Windows 10 – Target machine
+- Kali Linux – Attacker machine
+- Splunk Enterprise – SIEM
+- Sysmon – Enhanced Windows telemetry
+- Splunk Universal Forwarder – Log collection agent
+- Hydra – Brute force tool
+- Atomic Red Team – MITRE ATT&CK simulation
+
+## Steps
+Detailed steps are broken down in the folders above. 
+
+Below is the diagram diagram for this homelab project.  
+![Screenshot 2025-07-01 193414](https://github.com/user-attachments/assets/0ea2d2e4-6d16-487d-b2d6-e57650701481)
