@@ -42,3 +42,7 @@ Detailed steps are broken down in the folders above.
 
 Below is the diagram diagram for this homelab project.  
 ![Screenshot 2025-07-01 193414](https://github.com/user-attachments/assets/0ea2d2e4-6d16-487d-b2d6-e57650701481)
+
+## Reflection
+
+ALWAYS TAKE SNAPSHOTS AFTER A MAJOR CHANGE IN THE VM! That was one painful lesson I had to learn when I put in the wrong syntax and messed up all the progress I made at that point. This project was challenging at times with the issues I ran into but being able to troubleshoot issues was greatly rewarding. I can't wait to do more projects and build more cybersecurity skills! 
