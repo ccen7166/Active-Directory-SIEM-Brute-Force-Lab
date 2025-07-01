@@ -1,4 +1,5 @@
 # Active-Directory-SIEM-Brute-Force-Lab
+
 Homelab project: Building Active Directory, simulating brute force attacks, detecting them with Splunk SIEM, and testing Atomic Red Team.
 
 ## Objective
@@ -7,9 +8,7 @@ This project demonstrates building a realistic multi-VM homelab to simulate ente
 
 ### Skills Learned
 
-
 This project strengthened my understanding of:
-
 - Windows enterprise infrastructure
 - Credential attack techniques
 - Log collection pipelines
