@@ -17,7 +17,7 @@ This project strengthened my understanding of:
 
 ### Tools Used
 
-- Windows Server 2019 – Domain Controller
+- Windows Server 2022 – Domain Controller
 - Windows 10 – Target machine
 - Kali Linux – Attacker machine
 - Splunk Enterprise – SIEM
