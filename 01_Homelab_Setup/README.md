@@ -16,9 +16,11 @@ Configured a homelab environment with 4 virtual machines:
 2. Created VMs in VirtualBox - all 4 VMS are pictured below.
    ![Screenshot 2025-07-01 211111](https://github.com/user-attachments/assets/a2c885c9-7155-4069-9513-2b08cef9743e)
 
-4. Assigned static IP addresses for consistent networking
-5. Configured Host-Only Network (IP 192.168.10.0) to isolate lab traffic
-6. Verified connectivity with `ping' and `RDP`
+4. Assigned static IP addresses for consistent networking with these settings:
+      ![Screenshot 2025-07-01 212326](https://github.com/user-attachments/assets/59101237-549c-4d73-ba8d-ec3938d36e90)
+   
+6. Configured Host-Only Network (IP 192.168.10.0) to isolate lab traffic
+7. Verified connectivity with `ping` and `RDP`
 
 ---
 
@@ -28,7 +30,11 @@ Configured a homelab environment with 4 virtual machines:
 
 ---
 
-## Notes
+## Key Takeaways
 
-- Used NAT network for initial updates and package installations
-- Switched to Host-Only Network for attack simulation
+- Reinforced my understanding of static vs. dynamic IP addresses and the protocols associated with them.
+- Learned that Netplan is a useful tool for configuring network settings using YAML files to simplify the configuration process.
+- Initially struggled to set a static IP because edits in the Netplan file (/etc/netplan/50-cloud-init.yaml) were temporary due to cloud-init defaults.
+- Resolved the issue by disabling cloud-init networking, which allowed persistent static IP configuration.
+
+
