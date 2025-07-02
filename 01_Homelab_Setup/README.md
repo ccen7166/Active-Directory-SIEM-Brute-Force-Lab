@@ -3,7 +3,7 @@
 ## Overview
 
 Configured a homelab environment with 4 virtual machines:
-- **Windows Server 2022** – Active Directory Domain Controller
+- **Windows Server 2022** – Active Directory Domain Controller (ADDC01)
 - **Ubuntu Server 24.04.2** – Splunk SIEM server
 - **Windows 10** – Target machine
 - **Kali Linux** – Attacker machine
