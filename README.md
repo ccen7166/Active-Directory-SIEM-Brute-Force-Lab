@@ -17,10 +17,10 @@ This project strengthened my understanding of:
 
 ### Tools Used
 
-- Windows Server 2022 – Domain Controller
+- Windows Server 2022 – Active Directory Domain Controller
 - Windows 10 – Target machine
 - Kali Linux – Attacker machine
-- Splunk Enterprise – SIEM
+- Ubuntu Server 24.04.02 – Splunk SIEM server
 - Sysmon – Enhanced Windows telemetry
 - Splunk Universal Forwarder – Log collection agent
 - Hydra – Brute force tool
@@ -34,7 +34,7 @@ This project strengthened my understanding of:
 | `02_AD_Configuration` | Active Directory Domain Services installation and domain configuration |
 | `03_SIEM_Setup` | Sysmon deployment and Splunk Universal Forwarder installation |
 | `04_Attack_Simulation` | Simulated attacks: Hydra brute force and Atomic Red Team |
-| `05_Detection` | Splunk dashboards, search queries, and analysis of attack traces |
+| `05_Detection` | Search queries and analysis of attack traces |
 
 ## Steps
 
