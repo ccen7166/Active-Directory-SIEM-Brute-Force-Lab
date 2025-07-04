@@ -16,11 +16,11 @@ Configured a homelab environment with 4 virtual machines:
 2. Created VMs in VirtualBox - all 4 VMS are pictured below.
    ![Screenshot 2025-07-01 211111](https://github.com/user-attachments/assets/a2c885c9-7155-4069-9513-2b08cef9743e)
 
-4. Assigned static IP addresses for consistent networking with these settings:
+3. Assigned static IP addresses for consistent networking with these settings:
       ![Screenshot 2025-07-01 212326](https://github.com/user-attachments/assets/59101237-549c-4d73-ba8d-ec3938d36e90)
    
-6. Configured Host-Only Network (IP 192.168.10.0) to isolate lab traffic
-7. Verified connectivity with `ping` and `RDP`
+4. Configured Host-Only Network (IP 192.168.10.0) to isolate lab traffic
+5. Verified connectivity with `ping` and `RDP`
 
 ---
 
