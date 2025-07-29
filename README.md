@@ -30,11 +30,11 @@ This project strengthened my understanding of:
 
 | Folder | Description |
 |--------|-------------|
-| `01_Homelab_Setup` | Virtual machine configurations, network diagram, and static IP setup |
-| `02_AD_Configuration` | Active Directory Domain Services installation and domain configuration |
-| `03_SIEM_Setup` | Sysmon deployment and Splunk Universal Forwarder installation |
-| `04_Attack_Simulation` | Simulated attacks: Hydra brute force and Atomic Red Team |
-| `05_Detection` | Search queries and analysis of attack traces |
+| <a href="https://github.com/ccen7166/Active-Directory-SIEM-Brute-Force-Lab/blob/main/01_Homelab_Setup/README.md">`01_Homelab_Setup`</a>| Virtual machine configurations, network diagram, and static IP setup |
+| <a href="https://github.com/ccen7166/Active-Directory-SIEM-Brute-Force-Lab/blob/main/02_AD_Configuration/README.md">`02_AD_Configuration`</a>| Active Directory Domain Services installation and domain configuration |
+| <a href="https://github.com/ccen7166/Active-Directory-SIEM-Brute-Force-Lab/blob/main/03_SIEM_Setup/README.md">`03_SIEM_Setup`</a>| Sysmon deployment and Splunk Universal Forwarder installation |
+| <a href="https://github.com/ccen7166/Active-Directory-SIEM-Brute-Force-Lab/blob/main/04_Attack_Simulation/README.md">`04_Attack_Simulation`</a>| Simulated attacks: Hydra brute force and Atomic Red Team |
+| <a href="https://github.com/ccen7166/Active-Directory-SIEM-Brute-Force-Lab/blob/main/README.md">`05_Detection`</a>| Search queries and analysis of attack traces |
 
 ## Steps
 
